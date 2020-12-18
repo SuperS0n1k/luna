@@ -1,1 +1,1 @@
-var onOpen: alert :("wiki")
+var onOpen: alert :("wiki in progress")
