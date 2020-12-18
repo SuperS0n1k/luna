@@ -1,0 +1,1 @@
+var onOpen: alert :("wiki")
